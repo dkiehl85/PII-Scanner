@@ -1,0 +1,19 @@
+filename,line_number,pii_type,matches
+sample1.csv,1,email,alice.johnson@example.com
+sample1.csv,1,ssn,123-45-6789
+sample1.csv,1,phone,555-123-4567
+sample1.csv,2,email,bob.smith@domain.org
+sample1.csv,2,ssn,234-56-7890
+sample1.csv,2,phone,555.987.6543
+sample1.csv,3,email,charlie.lee@example.net
+sample1.csv,3,ssn,345-67-8901
+sample1.csv,3,phone,555 321 9876
+sample1.txt,2,ssn,123-45-6789
+sample1.txt,3,email,john@example.com
+sample2.csv,1,email,manager@apollo.com
+sample2.csv,1,phone,555-444-2222
+sample2.csv,2,email,contact@gemini.org
+sample2.csv,3,email,orion-team@spaceagency.gov
+sample2.csv,3,phone,123-456-7890
+sample_mixed_pii.pdf,2,ssn,987-65-4321
+sample_mixed_pii.pdf,3,email,jane.smith@example.com
